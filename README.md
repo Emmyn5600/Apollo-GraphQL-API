@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps:
 
 * Open your terminal - Windows: `Win + R`, then type `cmd` | Mac: `Command + space`, then type `Terminal`
 * Navigate to a directory of your choosing using the `cd` command
-* Run this command in your OS terminal: `https://github.com/Emmyn5600/Video-search.git` to get a copy of the project
+* Run this command in your OS terminal: `https://github.com/Emmyn5600/Apollo-GraphQL-API.git` to get a copy of the project
 * Navigate to the project's directory using the `cd` command
 * Install dependencies by running `bundle install`
 * Migrate the database to your environment by running `rails db:create` then `rails db:migrate`
@@ -89,4 +89,4 @@ Open `http://localhost:4000/` in your browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues/](https://github.com/Emmyn5600/Video-search/issues).
+Feel free to check the [issues/](https://github.com/Emmyn5600/Apollo-GraphQL-API.git/issues).
