@@ -3,6 +3,8 @@
 Using GraphQL with properly defined Resolvers, typeDef, and Schema (in separate component files), 
 use the dataset below to create a database of your choice within MongoDB, Atlas, and perform Queries and Mutations.
 
+![image](https://user-images.githubusercontent.com/55635977/201149547-a97f88cf-cf7b-4b72-b852-3e282179702a.png)
+
 
 # Apollo server
 
